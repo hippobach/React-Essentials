@@ -7,8 +7,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "classnames": "^2.3.2",
+    "normalize.css": "^8.0.1",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "sass": "^1.69.5"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
